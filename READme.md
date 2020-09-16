@@ -22,7 +22,6 @@
 
 ## Future Table of Contents  
 
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Features](#features)
@@ -46,7 +45,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+
 
 ### Setup
 
@@ -57,10 +56,7 @@
 ## Documentation (Optional)
 ## Tests (Optional)
 
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
----
 
 ## Contributing
 
