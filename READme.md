@@ -1,4 +1,5 @@
-![EthereumToken_V4 2_icon-resized](https://user-images.githubusercontent.com/5213035/93327873-a2f91c80-f823-11ea-8267-031951a595a8.png)
+<img width="694" alt="e20" src="https://user-images.githubusercontent.com/5213035/93328972-2b2bf180-f825-11ea-9383-9f20dc818c4e.png">
+
 
 # e20.io
 
