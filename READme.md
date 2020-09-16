@@ -82,11 +82,14 @@
 
 ## Team
  
+ @Hatgit
+ 
 ---
 
 ## FAQ
 
- 
+ Q:What is e20.io?
+  `A: A site that hosts 20 Uniswap-powered widgets allowing users to interact with the ethereum blockchain to swap the top 20 ERC tokens, using an upcoming list developed by us, that pulls data from Etherscan for the 20 highest ranked ethereum assets by market capitalization. 
 ---
 
 ## Support
