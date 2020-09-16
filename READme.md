@@ -14,6 +14,8 @@ The future home of https://e20.io
 
 ** by @hatgit **
 
+(via: http://e20.io/e20.html?n=20)
+
 ![e20-8k](https://user-images.githubusercontent.com/5213035/93329183-7ba34f00-f825-11ea-8c69-b4fdad9454bd.png)
 
 - build status (early beta)
