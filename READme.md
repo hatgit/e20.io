@@ -1,3 +1,4 @@
+![EthereumToken_V4 2_icon-resized](https://user-images.githubusercontent.com/5213035/93327873-a2f91c80-f823-11ea-8267-031951a595a8.png)
 
 # e20.io
 
