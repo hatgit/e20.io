@@ -3,6 +3,8 @@
 
 # e20.io
 
+The future home of https://e20.io
+
 > One place to access the top 20 Ethereum Assets via e20.io powered by Uniswap.
 > e20 provides access to the top 20 Ethereum Assets based on their market capitlization using data from Etherescan
 
