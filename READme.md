@@ -6,6 +6,8 @@
 > One place to access the top 20 Ethereum Assets via e20.io powered by Uniswap.
 > e20 provides access to the top 20 Ethereum Assets based on their market capitlization using data from Etherescan
 
+- The Goal of this project is to eventually enable a user to receive in one click (one tx) up to 20 of the top ethereum assets (ERC20 tokens, including wrapped-ether), as a means to not only save on gas and time but to provide the broader public an easy way to passivley build exposure to the top 20 ranking ERC20 assets by market capitalization. 
+
 > Related keywords: crypto assets, ERC20 tokens, Ethereum, ETH. 
 
 ** by @hatgit **
