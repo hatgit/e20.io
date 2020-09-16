@@ -110,5 +110,6 @@
 ---
 
 ## License
- 
+
+Mozilla: https://github.com/hatgit/e20.io/blob/master/LICENSE
  
