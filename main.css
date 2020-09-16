@@ -1,0 +1,62 @@
+html {
+    background-size: cover;
+    font: 20px/1em "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+.uniswap {
+    background: #2c2f36;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border: 0; 
+    margin: -170 -90; 
+    max-width: 600px; 
+    min-width: 250px;
+    transform: scale(0.55);
+    height: 820px;
+    width: 450px;
+    border-radius: 20px
+}
+#header {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding: 0.5em 0;
+    margin: 0;
+}
+
+#tips { margin: 0; padding:0; text-align: center; color: #b8b8b8}
+#tips span { font-weight: normal;}
+.tip:hover { text-decoration: underline; cursor: pointer}
+.address { font-size: 0.7em;}
+#tips p { line-height: 1.5em; background: rgba(0,0,0,0.5); display: inline-block; padding: 1em; border-radius: 20px; }
+
+.ad {
+    width: 450px;
+    height: 820px;
+    transform: scale(0.55);
+    border: 6px solid #009de1;
+    box-sizing: border-box;
+    background-color: #000200;
+    color: white;
+    overflow: hidden;
+}
+
+.ad h2 {
+    line-height: 1.2em;
+}
+
+.ad p {
+    font-size: 1.2em;
+}
+
+.ad p a {
+    color: #f6b900;
+}
+

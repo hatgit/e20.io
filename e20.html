@@ -1,0 +1,43 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="UTF-8">
+    <title>Swap the top 20 Ethereum assets</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.stevenhatzakis.com/main.css">
+    <script type="text/javascript" src="https://www.stevenhatzakis.com/main.js"></script>
+</head>
+<body>
+    <h1 id='header'></h1>
+    <div id="flex-container"></div>
+    <div id="tips">
+        <p>Tip me: <span class='tip' id='smalltip'>Ξ0.01</span> | <span class='tip' id='bigtip'>Ξ0.10</span> | <span class='tip' id='hugetip'>Ξ1.00</span><br>
+        <span class='address'>0x000000007b109FA8132c5e83dED171D44f9693BA</p>
+    </div>
+</body>
+<script>
+    window.addEventListener('load', async () => {
+	if (window.ethereum) {
+		window.web3 = new Web3(ethereum);
+		console.log('Web3 Detected! ' + web3.currentProvider.constructor.name)
+		console.log(web3.version);
+		try {
+			await ethereum.enable();
+		} catch (error) {
+			console.log('User has denied access.')
+		}
+	}
+	else if (window.web3) {
+		window.web3 = new Web3(web3.currentProvider);
+		console.log('Web3 Detected! ' + web3.currentProvider.constructor.name)
+		console.log(web3.version);
+	}
+});
+</script>
+<script>
+    $(document).ready(function(){
+        main()
+    });
+</script>
+</html>
